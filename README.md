@@ -24,7 +24,7 @@
 ## Work Experience
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
 - <p align="justify"> As an IAM Specialist for a banking firm in the UK, the project's overarching goal is the design and implementation of PingFederate integration for Single Sign-On in both Non-production and Production environments. </p> 
--<p align="justify">  Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals. </p> 
+- <p align="justify"> Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals. </p> 
 - <p align="justify"> The solution environment includes PingFederate, Ping Directory, Ping ID, Splunk, Postman, JMeter, JIRA, Confluence, GitHub, Visual Studio Code, and Maven. Responsibilities encompass designing and implementing application integration, gathering requirements, configuring PingID MFA, OAuth 2.0, and managing SSL certificates. </p> 
 - <p align="justify"> The role involves extensive use of tools like Fiddler, SAML Tracer, Visual Studio Code, and Maven for analysis, debugging, and automation scripting. Collaboration with Ping Directory, utilization of Splunk for log analysis, and documentation creation in Confluence are key aspects. </p> 
 - <p align="justify"> The IAM Specialist plays a crucial role in creating technical documents for user training, ensuring system stability, and security. Testing efforts involve Postman and JMeter, with a focus on reliability and performance. </p> 
