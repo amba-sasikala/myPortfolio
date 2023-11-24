@@ -4,9 +4,9 @@
 <p align="justify">Dedicated and results-driven Security Professional with over 9 years of hands-on experience in Identity and Access Management (IAM) across a diverse range of tools and platforms. Seeking a challenging role where my expertise in Authentication and Authorization, IAM standards and protocols, scripting and coding, cloud platforms, migration, testing, and security can be leveraged to enhance organizational security posture and contribute to the seamless operation of access management systems. Eager to apply my skills in a dynamic environment that values innovation, collaboration, and continuous improvement.</p>
 
 ## Technical Skills
-- Identity and Access Management Solutions: PingFederate, Ping Access, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)
-- Directory services: Ping Directory (PD), Tivoli Directory Server (TDS), Security Directory Server (SDS), Active Directory (AD)
-- IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos
+- <p align="justify">Identity and Access Management Solutions: PingFederate, Ping Access, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
+- <p align="justify">Directory services: Ping Directory (PD), Tivoli Directory Server (TDS), Security Directory Server (SDS), Active Directory (AD)</p>
+- <p align="justify">IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos</p>
 - API Testing Tools: Postman, JMeter
 - Ticketing Systems: Service Now
 - Operating Systems: Windows XP/7, Linux, Ubuntu
