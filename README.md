@@ -23,18 +23,40 @@
 
 ## Work Experience
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
+- As an IAM Specialist for a banking firm in the UK, the project's overarching goal is the design and implementation of PingFederate integration for Single Sign-On in both Non-production and Production environments.
+- Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals.
+- The solution environment includes PingFederate, Ping Directory, Ping ID, Splunk, Postman, JMeter, JIRA, Confluence, GitHub, Visual Studio Code, and Maven. Responsibilities encompass designing and implementing application integration, gathering requirements, configuring PingID MFA, OAuth 2.0, and managing SSL certificates.
+- The role involves extensive use of tools like Fiddler, SAML Tracer, Visual Studio Code, and Maven for analysis, debugging, and automation scripting. Collaboration with Ping Directory, utilization of Splunk for log analysis, and documentation creation in Confluence are key aspects.
+- The IAM Specialist plays a crucial role in creating technical documents for user training, ensuring system stability, and security. Testing efforts involve Postman and JMeter, with a focus on reliability and performance.
+- Additionally, active participation in Agile development processes, Scrum ceremonies, and detailed updates in Jira contribute to the successful achievement of Sprint goals.
 
 **Senior Associate @ Ernst & Young (_July 2019 - Jun 2022_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
+- Efficiently and securely manage and operate EY's Web Access Management and Federation platforms.
+- The focus is on providing L3 support services, facilitating changes across diverse environments, and adhering to standards, policies, processes, and documentation.
+- The solution environment encompasses Microsoft Azure, ADFS, PingFederate, Ping Access, Ping One, Ping ID, Azure MFA, RADIUS, and Splunk.
+- Responsibilities include overseeing critical identity and access management infrastructure, configuring and optimizing systems for seamless and secure authentication, and implementing and supporting Azure AD B2C, Conditional Access Policy, Token permission, and Identity protection.
+- The role involves comprehensive support for Azure AD MFA, PingID MFA, SAML, OAuth applications, and the integration of Wireless LAN Controllers into RADIUS servers.
+- Collaboration with various teams, active engagement with stakeholders, round-the-clock support for user authentication, and routine ticket handling through Service-Now are essential aspects.
+- The position demands a holistic skill set to manage and support a complex identity and access management environment, ensuring timely issue resolution and system optimization.
+
 
 **Associate @ Cognizant (_Oct 2016 - Jul 2019_)**
+- Support the migration of IBM Access Management products from TAM 6.1 to ISAM 9.4.
+- Migrated the IBM directory server from TDS to SDS
+- Responsibilities included setting up the new ISAM environment, configuring components, and onboarding applications.
+- The solution environment consisted of Security Access Manager 9.4, Security Directory Server, and Tivoli Directory Integrator.
+- Provide production support for Tivoli Access Manager services.
+- Responsibilities involved setting up the Tivoli Access Manager environment, onboarding/offboarding, junction creation, and addressing intermittent issues. 
+
 
 **Programmer Analyst @ Cognizant (_Oct 2014 - Sep 2016_)**
+- The IAM Tester project aimed to support end-to-end functional testing for SailPoint application, including user life cycle events testing.
+- The solution environment included SailPoint identityiq 6.2/6.4, PeopleSoft, and Microsoft Active Directory. Lastly, the Developer project aimed to create a License Generator module with features like approval workflow, reporting, auditing, and License Validator.
+- The solution environment included Eclipse, Visual Studio 2010, and SQL Studio 2008, and responsibilities encompassed requirement analysis, code implementation, testing, bug fixing, and deployment.
 
 **Programmer Analyst Trainee @ Cognizant (_Sep 2013 - Sep 2014_)**
+- Received training in both Java and .NET programming languages.
+- Successfully completed a banking project using Java. In this project, Java programming skills to design and implement a software solution tailored for banking purposes. This could involve creating features such as user authentication, account management, transaction processing, and possibly incorporating database functionality to store and retrieve relevant information.
 
 ## Certifications
 - AZ 900 Microsoft Azure Fundamentals
