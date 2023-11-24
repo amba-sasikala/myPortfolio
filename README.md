@@ -16,13 +16,7 @@
 - Scripting and Coding: PowerShell, Java, C#, .NET
 - Cloud Platforms: AWS, Azure
 - Documentation and Project Management Tool: Confluence, JIRA, Maven
-- Security and Monitoring: Splunk, QRADAR
-
-## Education
-- Sept 2010 - Jun 2013 (Full time) <br>
-  Master of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India			       		
-- Oct 2007 - Jun 2010 (Full time) <br>
-  Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India		        		
+- Security and Monitoring: Splunk, QRADAR        		
 
 ## Work Experience
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
@@ -59,6 +53,12 @@
 **Programmer Analyst Trainee @ Cognizant (_Sep 2013 - Sep 2014_)**
 - <p align="justify">Received training in both Java and .NET programming languages.</p> 
 - <p align="justify">Successfully completed a banking project using Java. In this project, Java programming skills to design and implement a software solution tailored for banking purposes. This could involve creating features such as user authentication, account management, transaction processing, and possibly incorporating database functionality to store and retrieve relevant information. </p>
+
+## Education
+- Sept 2010 - Jun 2013 (Full time) <br>
+  Master of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India			       		
+- Oct 2007 - Jun 2010 (Full time) <br>
+  Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India	
  
 ## Certifications
 - AZ 900 Microsoft Azure Fundamentals
