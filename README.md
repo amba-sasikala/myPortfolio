@@ -7,16 +7,16 @@
 - <p align="justify">Identity and Access Management Solutions: PingFederate, Ping Access, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
 - <p align="justify">Directory services: Ping Directory (PD), Tivoli Directory Server (TDS), Security Directory Server (SDS), Active Directory (AD)</p>
 - <p align="justify">IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos</p>
-- API Testing Tools: Postman, JMeter
-- Ticketing Systems: Service Now
-- Operating Systems: Windows XP/7, Linux, Ubuntu
-- Database: SQL Server, MYSQL
-- IDE and Tools: Eclipse IDE, Visual Studio
-- Code Editor: Visual Studio Code
-- Scripting and Coding: PowerShell, Java, C#, .NET
-- Cloud Platforms: AWS, Azure
-- Documentation and Project Management Tool: Confluence, JIRA, Maven
-- Security and Monitoring: Splunk, QRADAR        		
+- <p align="justify">API Testing Tools: Postman, JMeter</p>
+- <p align="justify">Ticketing Systems: Service Now</p>
+- <p align="justify">Operating Systems: Windows XP/7, Linux, Ubuntu</p>
+- <p align="justify">Database: SQL Server, MYSQL</p>
+- <p align="justify">IDE and Tools: Eclipse IDE, Visual Studio</p>
+- <p align="justify">Code Editor: Visual Studio Code</p>
+- <p align="justify">Scripting and Coding: PowerShell, Java, C#, .NET</p>
+- <p align="justify">Cloud Platforms: AWS, Azure</p>
+- <p align="justify">Documentation and Project Management Tool: Confluence, JIRA, Maven</p>
+- <p align="justify">Security and Monitoring: Splunk, QRADAR</p>        		
 
 ## Work Experience
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
