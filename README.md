@@ -16,9 +16,9 @@
 - Security and Monitoring: Splunk, QRADAR
 
 ## Education
-- Sept 2010 - Jun 2013 (Full time)
+- Sept 2010 - Jun 2013 (Full time) <br>
   Master of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India			       		
-- Oct 2007 - Jun 2010 (Full time)
+- Oct 2007 - Jun 2010 (Full time) <br>
   Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India		        		
 
 ## Work Experience
