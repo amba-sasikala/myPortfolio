@@ -4,19 +4,19 @@ layout: default
 <p align="justify">Dedicated and results-driven Security Professional with over 9 years of hands-on experience in Identity and Access Management (IAM) across a diverse range of tools and platforms. Seeking a challenging role where my expertise in Authentication and Authorization, IAM standards and protocols, scripting and coding, cloud platforms, migration, testing, and security can be leveraged to enhance organizational security posture and contribute to the seamless operation of access management systems. Eager to apply my skills in a dynamic environment that values innovation, collaboration, and continuous improvement.</p>
 
 ## Technical Skills
-- <p align="justify">Identity and Access Management Solutions: PingFederate, Ping Access, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
+- <p align="justify">Identity and Access Management Solutions: PingFederate, PingAccess, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), Auth0, IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
 - <p align="justify">Directory services: Ping Directory (PD), Tivoli Directory Server (TDS), Security Directory Server (SDS), Active Directory (AD)</p>
 - <p align="justify">IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos</p>
 - <p align="justify">API Testing Tools: Postman, JMeter</p>
 - <p align="justify">Ticketing Systems: Service Now</p>
-- <p align="justify">Operating Systems: Windows XP/7/10, Linux, Ubuntu</p>
+- <p align="justify">Operating Systems: Windows XP/7/10, Linux/Ubuntu</p>
 - <p align="justify">Database: SQL Server, MYSQL</p>
 - <p align="justify">IDE and Tools: Eclipse IDE, Visual Studio</p>
 - <p align="justify">Code Editor: Visual Studio Code</p>
 - <p align="justify">Scripting and Coding: PowerShell, Java, C#, .NET</p>
 - <p align="justify">Cloud Platforms: AWS, Azure</p>
-- <p align="justify">DevOps Tool: BitBucket</p>
-- <p align="justify">Documentation and Project Management Tool: Confluence, JIRA, Maven</p>
+- <p align="justify">DevOps Tool: BitBucket, Git</p>
+- <p align="justify">Documentation and Project Management Tool: Confluence, Jira, Maven</p>
 - <p align="justify">Security and Monitoring: Splunk, QRADAR</p>        		
 
 ## Work Experience
@@ -31,7 +31,7 @@ layout: default
 **Senior Associate @ Ernst & Young (_July 2019 - Jun 2022_)**
 - <p align="justify">Efficiently and securely manage and operate EY's Web Access Management and Federation platforms.</p> 
 - <p align="justify">The focus is on providing L3 support services, facilitating changes across diverse environments, and adhering to standards, policies, processes, and documentation.</p> 
-- <p align="justify">The solution environment encompasses Microsoft Azure, ADFS, PingFederate, Ping Access, Ping One, Ping ID, Azure MFA, RADIUS, and Splunk.</p> 
+- <p align="justify">The solution environment encompasses Microsoft Azure, ADFS, Auth0,PingFederate, PingAccess, PingOne, Ping ID, Azure MFA, RADIUS, and Splunk.</p> 
 - <p align="justify">Responsibilities include overseeing critical identity and access management infrastructure, configuring and optimizing systems for seamless and secure authentication, and implementing and supporting Azure AD B2C, Conditional Access Policy, Token permission, and Identity protection.</p> 
 - <p align="justify">The role involves comprehensive support for Azure AD MFA, PingID MFA, SAML, OAuth applications, and the integration of Wireless LAN Controllers into RADIUS servers.</p> 
 - <p align="justify">Collaboration with various teams, active engagement with stakeholders, round-the-clock support for user authentication, and routine ticket handling through Service-Now are essential aspects.</p> 
