@@ -9,7 +9,7 @@ layout: default
 - <p align="justify">IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos</p>
 - <p align="justify">API Testing Tools: Postman, JMeter</p>
 - <p align="justify">Ticketing Systems: Service Now</p>
-- <p align="justify">Operating Systems: Windows XP/7, Linux, Ubuntu</p>
+- <p align="justify">Operating Systems: Windows XP/7/10, Linux, Ubuntu</p>
 - <p align="justify">Database: SQL Server, MYSQL</p>
 - <p align="justify">IDE and Tools: Eclipse IDE, Visual Studio</p>
 - <p align="justify">Code Editor: Visual Studio Code</p>
