@@ -47,10 +47,9 @@ layout: default
 - <p align="justify">Responsibilities involved setting up the Tivoli Access Manager environment, onboarding/offboarding, junction creation, and addressing intermittent issues. </p> 
 
 **Programmer Analyst @ Cognizant (_Oct 2014 - Sep 2016_)**
-- <p align="justify">The IAM Tester project aimed to support end-to-end functional testing for SailPoint application, including user life cycle events testing.</p> 
-- <p align="justify">The solution environment included SailPoint identityiq 6.2/6.4, PeopleSoft, and Microsoft Active Directory. Lastly, the Developer project aimed to create a License Generator module with features like approval workflow, reporting, auditing, and License Validator.</p> 
-- <p align="justify">The solution environment included Eclipse, Visual Studio 2010, and SQL Studio 2008, and responsibilities encompassed requirement analysis, code implementation, testing, bug fixing, and deployment.</p> 
- 
+- <p align="justify">The IAM Tester project aimed to support end-to-end functional testing for SailPoint application, including user life cycle events testing.The solution environment included SailPoint identityiq 6.2/6.4, PeopleSoft, and Microsoft Active Directory.</p> 
+- <p align="justify"> Lastly, the Developer project aimed to create a License Generator module with features like approval workflow, reporting, auditing, and License Validator.The solution environment included Eclipse, Visual Studio 2010, and SQL Studio 2008, and responsibilities encompassed requirement analysis, code implementation, testing, bug fixing, and deployment.</p> 
+
 **Programmer Analyst Trainee @ Cognizant (_Sep 2013 - Sep 2014_)**
 - <p align="justify">Received training in both Java and .NET programming languages.</p> 
 - <p align="justify">Successfully completed a banking project using Java. In this project, Java programming skills to design and implement a software solution tailored for banking purposes. This could involve creating features such as user authentication, account management, transaction processing, and possibly incorporating database functionality to store and retrieve relevant information. </p>
