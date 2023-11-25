@@ -57,7 +57,8 @@ layout: default
 
 ## Education
 - Sept 2010 - Jun 2013 (Full time) <br>
-  Master of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India		<br>	       		
+  Master of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India
+  <br>    		
 - Oct 2007 - Jun 2010 (Full time) <br>
   Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India	
  
