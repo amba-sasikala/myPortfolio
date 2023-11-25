@@ -1,15 +1,6 @@
 ---
 layout: default
 ---
-Text can be bold, italic, or strikethrough.
-
-Link to another page.
-
-There should be whitespace between paragraphs.
-
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
-
-## Career Objective<br>
 <p align="justify">Dedicated and results-driven Security Professional with over 9 years of hands-on experience in Identity and Access Management (IAM) across a diverse range of tools and platforms. Seeking a challenging role where my expertise in Authentication and Authorization, IAM standards and protocols, scripting and coding, cloud platforms, migration, testing, and security can be leveraged to enhance organizational security posture and contribute to the seamless operation of access management systems. Eager to apply my skills in a dynamic environment that values innovation, collaboration, and continuous improvement.</p>
 
 ## Technical Skills
