@@ -62,6 +62,7 @@ layout: default
   Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India	
  
 ## Certifications
+- ISC2 Certified in Cybersecurity (CC)
 - AZ 900 Microsoft Azure Fundamentals
 - DP 900 Microsoft Data Fundamentals
 - MB 900 Microsoft Dynamics 365 Fundamentals
