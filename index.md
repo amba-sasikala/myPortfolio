@@ -62,6 +62,7 @@ layout: default
   Bachelor of Computer Applications | Amrita Vishwa Vidyapeetham | Kochi | Kerala | India	
  
 ## Certifications
+- Okta Certified Administrator
 - Okta Certified Professional
 - ISC2 Certified in Cybersecurity (CC)
 - AZ 900 Microsoft Azure Fundamentals
