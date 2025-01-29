@@ -20,6 +20,16 @@ layout: default
 - <p align="justify">Security and Monitoring: Splunk, QRADAR</p>        		
 
 ## Work Experience
+**Senior Consultant @ Synechron (_Feb 2023 - Current_)**
+- <p align="justify">The project's overarching goal is to migrate from SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
+- <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installtion and configuration. </p> 
+- <p align="justify">Customized error and logout templates for PingAccess and PingFederate. </p> 
+- <p align="justify">Worked on token exchange, client credentials, and authorization grant types. </p> 
+- <p align="justify">Set up and onboarded IDP (Identity Provider) and SP (Service Provider) connections. </p> 
+- <p align="justify">Provided support and troubleshooting for identity and access management (IAM) issues. </p> 
+- <p align="justify">Managed certificate updates and license renewals for all Ping components. </p> 
+- <p align="justify">Assisted with confluence documentation and Jira updates to track project progress. </p> 
+
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
 - <p align="justify">The project's overarching goal is the design and implementation of PingFederate integration for Single Sign-On in both Non-production and Production environments. </p> 
 - <p align="justify">Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals. </p> 
