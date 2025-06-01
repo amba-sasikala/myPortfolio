@@ -1,7 +1,7 @@
 ---
 layout: default
 ---
-<p align="justify">Dedicated and results-driven Security Professional with over 9 years of hands-on experience in Identity and Access Management (IAM) across a diverse range of tools and platforms. Seeking a challenging role where my expertise in Authentication and Authorization, IAM standards and protocols, scripting and coding, cloud platforms, migration, testing, and security can be leveraged to enhance organizational security posture and contribute to the seamless operation of access management systems. Eager to apply my skills in a dynamic environment that values innovation, collaboration, and continuous improvement.</p>
+<p align="justify">Dedicated and results-driven Security Professional with over 10 years of hands-on experience in Identity and Access Management (IAM) across a diverse range of tools and platforms. Seeking a challenging role where my expertise in Authentication and Authorization, IAM standards and protocols, scripting and coding, cloud platforms, migration, testing, and security can be leveraged to enhance organizational security posture and contribute to the seamless operation of access management systems. Eager to apply my skills in a dynamic environment that values innovation, collaboration, and continuous improvement.</p>
 
 ## Technical Skills
 - <p align="justify">Identity and Access Management Solutions: PingFederate,PingAccess, Okta, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), Auth0, IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
