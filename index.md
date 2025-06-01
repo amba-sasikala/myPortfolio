@@ -23,9 +23,10 @@ layout: default
 **Senior Consultant @ Synechron (_Feb 2023 - Current_)**
 - <p align="justify">The project's overall goal is to migrate applications from SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
 - <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration.Co-ordinated with Splunk team to install splunk agents on the Ping servers. </p> 
-- <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. </p> 
+- <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. Enabled StepUp authentication for agent based and PKCE applications. </p> 
 - <p align="justify">Worked on token exchange, client credentials, and authorization grant types. </p> 
 - <p align="justify">Onboarded IDP (Identity Provider) and SP (Service Provider) connections and co-ordinated with vendors for configuration setup and testing. Implemented custom logout for the ping onboarded application, as well as enabled MFA for sites.</p> 
+- <p align="justify">Worked on vulnerabilities related to ping access and pingfederate admin consoles. </p> 
 - <p align="justify">Provided support and troubleshooting for identity and access management (IAM) issues. </p> 
 - <p align="justify">Managed certificate updates and license renewals for all Ping components. </p> 
 - <p align="justify">Assisted with confluence documentation and Jira updates to track project progress. </p> 
