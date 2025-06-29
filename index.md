@@ -7,7 +7,7 @@ layout: default
 - <p align="justify">Identity and Access Management Solutions: PingFederate,PingAccess, Okta, PingOne, PingId, SailPoint, Microsoft Azure, Active Directory Federation Services (ADFS), Auth0, IBM Security Access Manager (ISAM), and Tivoli Access Manager (TAM), Tivoli Federated Identity Manager (TFIM)</p>
 - <p align="justify">Directory services: Ping Directory (PD), Tivoli Directory Server (TDS), Security Directory Server (SDS)</p>
 - <p align="justify">IAM Standards and Protocols: SAML, OAuth, OpenID, RADIUS, LDAP, SCIM, Kerberos</p>
-- <p align="justify">API Testing Tools: Postman, JMeter, Insomnia</p>
+- <p align="justify">API Testing Tools: Postman, JMeter, Insomnia, Bruno</p>
 - <p align="justify">Ticketing Systems: Service Now</p>
 - <p align="justify">Operating Systems: Windows XP/7/10, Linux/Ubuntu</p>
 - <p align="justify">Database: SQL Server, MYSQL</p>
@@ -22,13 +22,16 @@ layout: default
 ## Work Experience
 **Senior Consultant @ Synechron (_Feb 2023 - Current_)**
 - <p align="justify">The project's overall goal is to migrate applications from SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
-- <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration.Co-ordinated with Splunk team to install splunk agents on the Ping servers. </p> 
+- <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration. Migrated over 150 applications from SiteMinder to Ping.</p> 
 - <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. Enabled StepUp authentication for agent based and PKCE applications. </p> 
+- <p align="justify">Implemented OAuth authentication for PingFederate and PingAccess Admin API and worked on the code developement of SP and IDP adapters.</p> 
 - <p align="justify">Worked on token exchange, client credentials, and authorization grant types. </p> 
-- <p align="justify">Onboarded IDP (Identity Provider) and SP (Service Provider) connections and co-ordinated with vendors for configuration setup and testing. Implemented custom logout for the ping onboarded application, as well as enabled MFA for sites.</p> 
-- <p align="justify">Worked on vulnerabilities related to ping access and pingfederate admin consoles. </p> 
-- <p align="justify">Provided support and troubleshooting for identity and access management (IAM) issues. </p> 
+- <p align="justify">Onboarded IDP (Identity Provider) and SP (Service Provider) connections and co-ordinated with vendors for configuration setup and testing.</p> 
+- <p align="justify">Implemented custom logout for the ping onboarded application.</p> 
+- <p align="justify">Worked on vulnerabilities related to ping access and pingfederate admin consoles and admin api. </p> 
+- <p align="justify">Provided production and LLE support and troubleshooting for identity and access management (IAM) issues. </p> 
 - <p align="justify">Managed certificate updates and license renewals for all Ping components. </p> 
+- <p align="justify">Co-ordinated with Splunk team to install splunk agents on the Ping servers. </p>
 - <p align="justify">Assisted with confluence documentation and Jira updates to track project progress. </p> 
 
 **Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
