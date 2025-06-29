@@ -26,7 +26,9 @@ layout: default
 - <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. Enabled StepUp authentication for agent based and PKCE applications. </p> 
 - <p align="justify">Implemented OAuth authentication for PingFederate and PingAccess Admin API and worked on the code developement of SP and IDP adapters.</p> 
 - <p align="justify">Worked on token exchange, client credentials, and authorization grant types. </p> 
-- <p align="justify">Onboarded IDP (Identity Provider) and SP (Service Provider) connections and co-ordinated with vendors for configuration setup and testing.</p> 
+- <p align="justify">Onboarded IDP (Identity Provider) and SP (Service Provider) connections and co-ordinated with vendors for configuration setup and testing.</p>
+- <p align="justify">Developed OGNL expressions for access token mapping in PingFederate and implemented Groovy scripts in PingAccess based on project requirements.</p> 
+- <p align="justify">Enabled role based access for pingaccess and pingfederate admin consoles.</p> 
 - <p align="justify">Implemented custom logout for the ping onboarded application.</p> 
 - <p align="justify">Worked on vulnerabilities related to ping access and pingfederate admin consoles and admin api. </p> 
 - <p align="justify">Provided production and LLE support and troubleshooting for identity and access management (IAM) issues. </p> 
