@@ -21,8 +21,8 @@ layout: default
 
 ## Work Experience
 **Senior Consultant @ Synechron (_Feb 2023 - Current_)**
-- <p align="justify">The project's overall goal is to migrate applications from SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
-- <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration. Migrated over 150 applications from SiteMinder to Ping.</p> 
+- <p align="justify">The project's overall goal is to migrate applications from CA SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
+- <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration. Migrated over 150 applications from CA SiteMinder to Ping.</p> 
 - <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. Enabled StepUp authentication for agent based and PKCE applications. </p> 
 - <p align="justify">Implemented OAuth authentication for PingFederate and PingAccess Admin API and worked on the code developement of SP and IDP adapters.</p> 
 - <p align="justify">Worked on token exchange, client credentials, and authorization grant types. </p> 
