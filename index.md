@@ -20,7 +20,7 @@ layout: default
 - <p align="justify">Security and Monitoring: Splunk, QRADAR</p>        		
 
 ## Work Experience
-**Senior Consultant @ Bank of America(Synechron) (_Feb 2023 - Current_)**
+**Senior Consultant @ Bank of America(Synechron) (_Feb 2024 - Current_)**
 - <p align="justify">The project's overall goal is to migrate applications from CA SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
 - <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration. Migrated over 150 applications from CA SiteMinder to Ping.</p> 
 - <p align="justify">Customized error and logout templates for PingAccess and PingFederate. Enabled MFA for the PingAccess and PingFederate admin consoles. Enabled StepUp authentication for agent based and PKCE applications. </p> 
