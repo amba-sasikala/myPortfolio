@@ -18,7 +18,8 @@
     <header class="page-header" role="banner">
       <h1 class="project-name">{{ page.title | default: site.title | default: site.github.repository_name }}</h1>
       <h2 class="project-tagline">{{ page.description | default: site.description | default: site.github.project_tagline }}</h2>
-      <a href="{{ site.linkedin_url }}" target="_blank" style="font-size:12px; color:white; text-decoration:none;">LinkedIn</a>
+      #<a href="{{ site.linkedin_url }}" target="_blank" style="font-size:12px; color:white; text-decoration:none;">LinkedIn</a>
+      <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="medium" data-theme="light" data-type="VERTICAL" data-vanity="amba-mohan-588b01b3" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://www.linkedin.com/in/amba-mohan-588b01b3?trk=profile-badge">Amba Mohan</a></div>
       {% if site.github.is_project_page %}
         <a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
       {% endif %}
