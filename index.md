@@ -50,21 +50,20 @@ layout: default
 - <p align="justify">Integrated SAML / OAuth applications with Azure AD to enable secure Single Sign-On (SSO).</p> 
 - <p align="justify">Configured Relying Party Trusts and Claim Provider Trusts in ADFS.</p> 
 - <p align="justify">Designed and set up monitoring solutions for Azure AD and ADFS infrastructure.</p> 
-- <p align="justify">Performed application certificate and client secret renewals for SAML, WSFED, and OAuth applications.</p> 
 - <p align="justify">Configured and supported SCIM provisioning between Azure AD and cloud applications.</p> 
-- <p align="justify">Provided end-user authentication support, resolving issues related to SAML, OAuth, OIDC, Azure MFA, and Conditional Access (CA) policies.</p> 
 - <p align="justify">Monitored and renewed ADFS certificates and service accounts to ensure high availability.</p> 
 - <p align="justify">Configured and supported Azure Conditional Access policies to strengthen security controls.</p> 
 - <p align="justify">Automated day-to-day IAM tasks by developing workflows using Microsoft Power Platform (Power Automate, Power Apps) and PowerShell scripts.</p> 
 - <p align="justify">Integrated enterprise applications with PingFederate and PingAccess in production environments.</p> 
 - <p align="justify">Configured PingAccess components, including sites, applications, identity mapping, and web sessions.</p> 
+- <p align="justify">Configured PingOne as an external IdP, secured APIs with PingOne, set up PingOne SSO with PingID as external MFA for Microsoft Entra ID, utilized PingOne Expression Language, and created web applications in PingOne.</p> 
 - <p align="justify">Supported PingID device management on the PingOne platform (pairing/unpairing and troubleshooting user issues).</p> 
 - <p align="justify">Monitored PingFederate and PingAccess infrastructure (Linux servers) using AppDynamics and Splunk, covering health checks, patching, port availability, and heartbeat URL status.</p> 
 - <p align="justify">Designed and configured modern authentication protocols (OAuth / OpenID Connect) for applications.</p> 
-- <p align="justify">Integrated and managed LDAP data stores with claims mapping based on application requirements</p> 
+- <p align="justify">Integrated and managed LDAP data stores with claims mapping based on application requirements.</p> 
 - <p align="justify">Performed application and server certificate monitoring and renewals to ensure service continuity.</p> 
 - <p align="justify">Utilized PingFederate Administrative REST API for connections monitoring and automation tasks.</p> 
-- <p align="justify">Troubleshoot authentication and federation issues using Splunk, SAML Tracer, Fiddler, and Postman for OAuth/OIDC flow testing.</p> 
+- <p align="justify">Provided end-user authentication support, resolving issues related to SAML, OAuth, OIDC, Azure MFA, and Conditional Access (CA) policies using Splunk, SAML Tracer, Fiddler, and Postman.</p> 
 - <p align="justify">Executed PingFederate and PingAccess upgrades, ensuring smooth version transitions and minimal downtime.</p> 
 - <p align="justify">Collaboration with various teams, active engagement with stakeholders, round-the-clock support for user authentication, and routine ticket handling through Service-Now are essential aspects.</p> 
 
