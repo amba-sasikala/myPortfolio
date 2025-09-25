@@ -20,7 +20,7 @@ layout: default
 - <p align="justify">Security and Monitoring: Splunk, QRADAR</p>        		
 
 ## Work Experience
-**Senior Consultant @ Bank of America(Synechron) (_Feb 2024 - Sep 2025_)**
+**Sr.IAM Engineer @ Bank of America(Synechron) (_Feb 2024 - Sep 2025_)**
 - <p align="justify">The project's overall goal is to migrate applications from CA SiteMinder to Ping, coordinating with multiple teams and onboarding applications using site-based, agent-based, and PKCE flow authentication. </p> 
 - <p align="justify">Developed automation scripts for PingAccess, PingFederate, and PingDirectory for installation and configuration. Migrated over 150 applications from CA SiteMinder to Ping.</p> 
 - <p align="justify">Implemented in-place upgrade of PingFederate servers in the clustered environment.</p> 
@@ -36,8 +36,9 @@ layout: default
 - <p align="justify">Managed certificate updates and license renewals for all Ping components. </p> 
 - <p align="justify">Co-ordinated with Splunk team to install Splunk agents on the Ping servers. </p>
 - <p align="justify">Assisted with Confluence documentation and Jira updates to track project progress. </p> 
+- <p align="justify">Utilize Microsoft Copilot to make daily work easier, handle complex tasks, create clear documents, and build helpful reports. </p> 
 
-**Senior Consultant @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
+**IAM Engineer @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
 - <p align="justify">The project's overarching goal is the design and implementation of PingFederate integration for Single Sign-On in both Non-production and Production environments. </p> 
 - <p align="justify">Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals. </p> 
 - <p align="justify">The solution environment includes PingFederate, Ping Directory, Ping ID, Splunk, Postman, JMeter, JIRA, Confluence, BitBucket, Visual Studio Code, and Maven. Responsibilities encompass designing and implementing application integration, gathering requirements, configuring PingID MFA, OAuth 2.0, and managing SSL certificates. </p> 
@@ -45,7 +46,7 @@ layout: default
 - <p align="justify">The IAM Specialist plays a crucial role in creating technical documents for user training, ensuring system stability, and security. Testing efforts involve Postman and JMeter, with a focus on reliability and performance. </p> 
 - <p align="justify">Additionally, active participation in Agile development processes, Scrum ceremonies, and detailed updates in Jira contribute to the achievement of Sprint goals. </p> 
 
-**Senior Associate @ Ernst & Young (_July 2019 - Jun 2022_)**
+**IAM Engineer @ Ernst & Young (_July 2019 - Jun 2022_)**
 - <p align="justify">Efficiently and securely manage and operate EY's Web Access Management and Federation platforms.</p> 
 - <p align="justify">The focus is on providing L3 support services, facilitating changes across diverse environments, and adhering to standards, policies, processes, and documentation.</p> 
 - <p align="justify">The solution environment encompasses Microsoft Azure, ADFS, Auth0, PingFederate, PingAccess, PingOne, Ping ID, Azure MFA, RADIUS, and Splunk.</p> 
@@ -55,7 +56,7 @@ layout: default
 - <p align="justify">The position demands a holistic skill set to manage and support a complex identity and access management environment, ensuring timely issue resolution and system optimization.</p> 
 
 
-**Associate @ Cognizant (_Oct 2016 - Jul 2019_)**
+**Sr.Security Engineer @ Cognizant (_Oct 2016 - Jul 2019_)**
 - <p align="justify">Support the migration of IBM Access Management products from TAM 6.1 to ISAM 9.4.</p> 
 - <p align="justify">Migrated the IBM directory server from TDS to SDS</p> 
 - <p align="justify">Responsibilities included setting up the new ISAM environment, configuring components, and onboarding applications.</p> 
@@ -63,11 +64,11 @@ layout: default
 - <p align="justify">Provide production support for Tivoli Access Manager services.</p> 
 - <p align="justify">Responsibilities involved setting up the Tivoli Access Manager environment, onboarding/offboarding, junction creation, and addressing intermittent issues. </p> 
 
-**Programmer Analyst @ Cognizant (_Oct 2014 - Sep 2016_)**
+**Security Engineer @ Cognizant (_Oct 2014 - Sep 2016_)**
 - <p align="justify">The IAM Tester project aimed to support end-to-end functional testing for the SailPoint application, including user life cycle events testing. The solution environment included SailPoint IdentityIQ 6.2/6.4, PeopleSoft, and Microsoft Active Directory.</p> 
 - <p align="justify"> Lastly, the Developer project aimed to create a License Generator module with features like approval workflow, reporting, auditing, and License Validator .The solution environment consisted of Eclipse, Visual Studio 2010, and SQL Server 2008, and responsibilities included requirement analysis, code implementation, testing, bug fixing, and deployment.</p> 
 
-**Programmer Analyst Trainee @ Cognizant (_Sep 2013 - Sep 2014_)**
+**Security Engineer Trainee @ Cognizant (_Sep 2013 - Sep 2014_)**
 - <p align="justify">Received training in both Java and .NET programming languages.</p> 
 - <p align="justify"> Completed a banking project using Java. In this project, Java programming skills are required to design and implement a software solution tailored for banking purposes. This could involve creating features such as user authentication, account management, transaction processing, and possibly incorporating database functionality to store and retrieve relevant information. </p>
 
