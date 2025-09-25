@@ -41,20 +41,32 @@ layout: default
 **IAM Engineer @ Simeio Solutions (_Jun 2022 - Apr 2023_)**
 - <p align="justify">The project's overarching goal is the design and implementation of PingFederate integration for Single Sign-On in both Non-production and Production environments. </p> 
 - <p align="justify">Leveraging SAML, federation hub, OAuth, and OpenID Connect, the project actively engages in efficient work item management through Jira, contributing to Scrum ceremonies and aligning with Sprint goals. </p> 
-- <p align="justify">The solution environment includes PingFederate, Ping Directory, Ping ID, Splunk, Postman, JMeter, JIRA, Confluence, BitBucket, Visual Studio Code, and Maven. Responsibilities encompass designing and implementing application integration, gathering requirements, configuring PingID MFA, OAuth 2.0, and managing SSL certificates. </p> 
+- <p align="justify">The solution environment includes PingFederate, Ping Directory, Ping ID, Splunk, Postman, JMeter, JIRA, Confluence, BitBucket, Visual Studio Code, and Maven. Responsibilities include designing and implementing application integration, gathering requirements, configuring PingID MFA and OAuth 2.0, and managing SSL certificates. </p> 
 - <p align="justify">The role involves extensive use of tools like Fiddler, SAML Tracer, Visual Studio Code, and Maven for analysis, debugging, and automation scripting. Collaboration with Ping Directory, utilization of Splunk for log analysis, and documentation creation in Confluence are key aspects. </p> 
 - <p align="justify">The IAM Specialist plays a crucial role in creating technical documents for user training, ensuring system stability, and security. Testing efforts involve Postman and JMeter, with a focus on reliability and performance. </p> 
 - <p align="justify">Additionally, active participation in Agile development processes, Scrum ceremonies, and detailed updates in Jira contribute to the achievement of Sprint goals. </p> 
 
 **IAM Engineer @ Ernst & Young (_July 2019 - Jun 2022_)**
-- <p align="justify">Efficiently and securely manage and operate EY's Web Access Management and Federation platforms.</p> 
-- <p align="justify">The focus is on providing L3 support services, facilitating changes across diverse environments, and adhering to standards, policies, processes, and documentation.</p> 
-- <p align="justify">The solution environment encompasses Microsoft Azure, ADFS, Auth0, PingFederate, PingAccess, PingOne, Ping ID, Azure MFA, RADIUS, and Splunk.</p> 
-- <p align="justify">Responsibilities include overseeing critical identity and access management infrastructure, configuring and optimizing systems for seamless and secure authentication, and implementing and supporting Azure AD B2C, Conditional Access Policy, Token permission, and Identity protection.</p> 
-- <p align="justify">The role involves comprehensive support for Azure AD MFA, PingID MFA, SAML, OAuth applications, and the integration of Wireless LAN Controllers into RADIUS servers.</p> 
+- <p align="justify">Integrated SAML / OAuth applications with Azure AD to enable secure Single Sign-On (SSO).</p> 
+- <p align="justify">Configured Relying Party Trusts and Claim Provider Trusts in ADFS.</p> 
+- <p align="justify">Designed and set up monitoring solutions for Azure AD and ADFS infrastructure.</p> 
+- <p align="justify">Performed application certificate and client secret renewals for SAML, WSFED, and OAuth applications.</p> 
+- <p align="justify">Configured and supported SCIM provisioning between Azure AD and cloud applications.</p> 
+- <p align="justify">Provided end-user authentication support, resolving issues related to SAML, OAuth, OIDC, Azure MFA, and Conditional Access (CA) policies.</p> 
+- <p align="justify">Monitored and renewed ADFS certificates and service accounts to ensure high availability.</p> 
+- <p align="justify">Configured and supported Azure Conditional Access policies to strengthen security controls.</p> 
+- <p align="justify">Automated day-to-day IAM tasks by developing workflows using Microsoft Power Platform (Power Automate, Power Apps) and PowerShell scripts.</p> 
+- <p align="justify">Integrated enterprise applications with PingFederate and PingAccess in production environments.</p> 
+- <p align="justify">Configured PingAccess components, including sites, applications, identity mapping, and web sessions.</p> 
+- <p align="justify">Supported PingID device management on the PingOne platform (pairing/unpairing and troubleshooting user issues).</p> 
+- <p align="justify">Monitored PingFederate and PingAccess infrastructure (Linux servers) using AppDynamics and Splunk, covering health checks, patching, port availability, and heartbeat URL status.</p> 
+- <p align="justify">Designed and configured modern authentication protocols (OAuth / OpenID Connect) for applications.</p> 
+- <p align="justify">Integrated and managed LDAP data stores with claims mapping based on application requirements</p> 
+- <p align="justify">Performed application and server certificate monitoring and renewals to ensure service continuity.</p> 
+- <p align="justify">Utilized PingFederate Administrative REST API for connections monitoring and automation tasks.</p> 
+- <p align="justify">Troubleshoot authentication and federation issues using Splunk, SAML Tracer, Fiddler, and Postman for OAuth/OIDC flow testing.</p> 
+- <p align="justify">Executed PingFederate and PingAccess upgrades, ensuring smooth version transitions and minimal downtime.</p> 
 - <p align="justify">Collaboration with various teams, active engagement with stakeholders, round-the-clock support for user authentication, and routine ticket handling through Service-Now are essential aspects.</p> 
-- <p align="justify">The position demands a holistic skill set to manage and support a complex identity and access management environment, ensuring timely issue resolution and system optimization.</p> 
-
 
 **Sr.Security Engineer @ Cognizant (_Oct 2016 - Jul 2019_)**
 - <p align="justify">Support the migration of IBM Access Management products from TAM 6.1 to ISAM 9.4.</p> 
